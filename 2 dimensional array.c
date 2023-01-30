@@ -1,4 +1,4 @@
-#include<stdio.h
+#include<stdio.h>
 int main(){
 	int i,j;
 	int a[5][2]={{0,0},{1,2},{3,4},{6,7},{9,7}};
